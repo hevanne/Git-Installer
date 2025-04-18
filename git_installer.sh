@@ -1,0 +1,1 @@
+# Fichier d'installation de Git automatique
